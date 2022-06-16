@@ -1,0 +1,39 @@
+* {
+    background-color: lightgrey;
+}
+
+.title {
+    font-size: 35px;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.about {
+    font-size: 30px;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.para {
+    text-align: justify;
+    font-size: 20px;
+    color: darkolivegreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#ingred,
+#step {
+    font-size: 35px;
+    text-align: center;
+    color:blanchedalmond
+}
+
+li {
+    color: darkgoldenrod;
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+
